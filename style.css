@@ -1,0 +1,37 @@
+body{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.inputs{
+    margin-bottom: 20px;
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+}
+
+button{
+    border-radius: 20px;
+    padding: 10px;
+    width: 150px;
+    border-style: outset;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    height: 150px;
+    margin: auto;
+}
